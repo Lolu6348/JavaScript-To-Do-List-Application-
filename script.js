@@ -1,4 +1,3 @@
-// script.js
 
 // Get elements from the DOM
 const addTaskBtn = document.getElementById('add-task-btn');
